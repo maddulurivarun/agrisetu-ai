@@ -1,0 +1,1 @@
+AgriSetu AI helps smallholder farmers across India protect their crops using smart, AI-driven guidance. By combining Gemini AI leaf diagnosis, soil analytics, and local language support, our platform enables state agricultural bodies to collaborate and deliver actionable, climate-smart farming advice right when farmers need it most.
